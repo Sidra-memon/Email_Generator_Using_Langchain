@@ -9,6 +9,7 @@ This tool is a cold email generator designed specifically for service companies,
 2.To get started, first install the dependencies using:
 pip install -r requirements.txt
 
-3.Run the streamlit app:
-streamlit run app/main.py
+3. Run colab file and add file(my.portfolio.csv) into it.
+
+4.Paste the IP address when url appears, this will lunach Streamlit app through local tunnel.
 
